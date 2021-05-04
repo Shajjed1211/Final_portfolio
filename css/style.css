@@ -1,0 +1,157 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+  background-color: #cacaca;
+}
+.banner-colum {
+  background-color: #8d8d8d;
+}
+.navbar-container {
+  top: 0;
+  background-color: #262b37;
+  position: sticky;
+  z-index: 1;
+}
+.about-container {
+  background-color: #00bdbd;
+  opacity: 0.9;
+  font-weight: bold;
+}
+.about text {
+}
+.my_img {
+  border-radius: 50%;
+}
+.education-container {
+  background-color: #eeeeee;
+}
+
+.ed-d-type {
+  background-color: #fb857f;
+}
+.ed-color {
+  color: #fb857f;
+}
+.education {
+  font-weight: bold;
+}
+.circle {
+  background-color: #fb857f;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+.project-containe {
+  background-color: #2bb3dd;
+  opacity: 0.8;
+}
+
+.preject_text {
+  font-weight: bold;
+}
+.project-pic-text {
+  color: white;
+  text-decoration: none;
+}
+
+.Portfolio-text {
+  color: #262b37;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.galary-text {
+  color: #262b37;
+  font-weight: bold;
+  font-size: 50px;
+  padding-top: 70px;
+}
+
+/************* CountDown  *************/
+.my-count {
+  background-image: url('../img/bg-tile.png') !important;
+}
+.wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper {
+  display: table;
+}
+
+.cell {
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#holder {
+  width: 603px;
+  height: 383px;
+  margin: auto;
+}
+
+.cntSeparator {
+  display: none;
+}
+
+.cntDigit {
+  margin-top: 148px !important;
+}
+
+.cntDigit#cnt_0 {
+  margin-left: 52px;
+}
+.cntDigit#cnt_2 {
+  margin-left: 7px;
+}
+
+.contact-text {
+  font-weight: bold;
+}
+.inner-form {
+  background-color: #585f73;
+  opacity: 0.9;
+}
+
+.btn {
+  background-color: rgba(255, 255, 255, 0.74);
+  color: #262b37;
+}
+
+.btn:hover {
+  color: black;
+  font-weight: bold;
+}
+.footer {
+  background-color: #00bdbd;
+  opacity: 0.9;
+}
+.footer-text {
+  font-weight: bold;
+}
+
+.circle-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: #00bdbd;
+}
+
+.circle-logo:hover {
+  background-color: #262b37;
+  color: #00bdbd;
+}
